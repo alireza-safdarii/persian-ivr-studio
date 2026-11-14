@@ -4,12 +4,11 @@
 
 **سامانه هوشمند تبدیل متن به گفتار (TTS) و طراحی سناریوی تلفن گویا (IVR) به زبان فارسی با خروجی استاندارد مخابراتی (`8000Hz WAV`)**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-اجرای_آنلاین_برنامه-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-USERNAME.github.io/persian-ivr-studio/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Run_App-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alireza-safdarii.github.io/persian-ivr-studio/)
 [![Gemini AI](https://img.shields.io/badge/Powered_by-Google_Gemini_API-f59e0b?style=for-the-badge&logo=googlegemini&logoColor=white)](https://aistudio.google.com/)
 [![VoIP Ready](https://img.shields.io/badge/PBX_Ready-Asterisk_%7C_Issabel_%7C_FreePBX-3b82f6?style=for-the-badge)](#)
 [![Zero Backend](https://img.shields.io/badge/Architecture-100%25_Client--Side-64748b?style=for-the-badge)](#)
 
-> 💡 **نکته قبل از انتشار:** در لینک دکمه `Live Demo` در خط بالا، عبارت `YOUR-USERNAME` را با نام کاربری گیت‌هاب خود جایگزین کنید.
 
 **Persian IVR Studio** یک ابزار تحت وب رایگان، متن‌باز و بدون نیاز به سرور (Client-Side) برای مدیران سیستم‌های تلفنی (VoIP)، مراکز تماس (Call Center) و ادمین‌های **Asterisk، Issabel، FreePBX، Elastix، Cisco CUCM و 3CX** است. این سامانه با استفاده از هوش مصنوعی Google Gemini، متن‌های فارسی را با **اعراب‌گذاری دقیق (کسره اضافه)** و لحن طبیعی و آرام به فایل صوتی استاندارد خطوط تلفن تبدیل می‌کند.
 
